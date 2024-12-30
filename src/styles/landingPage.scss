@@ -1,0 +1,46 @@
+.profile {
+    background-color: rgb(58 136 197);
+    overflow: hidden !important;
+    max-width: -webkit-fill-available !important;
+    height: 41px;
+
+}
+
+.col-10 {
+    padding-left: 0px;
+}
+
+.col-2 {
+    padding-right: 0px;
+}
+
+.menu-panel {
+    background-color: rgb(58 136 197);
+    max-width: -webkit-fill-available !important;
+    min-height: 857px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.menu-button{
+    border: none;
+    background: rgb(58 136 197);
+
+    svg.svg-inline--fa.fa-bars{
+        color: white !important;
+        margin-top: 10px;
+    }
+}
+
+svg.svg-inline--fa.fa-circle-user{
+        float: right;
+        font-size: 27px;
+        margin-top: 6px;
+        color: white;
+} 
+
+#root,
+html,
+body {
+    overflow: hidden;
+}

@@ -1,0 +1,40 @@
+.logo {
+    background-color: rgb(26 84 128 / 57%);
+    width: 205px;
+    border-radius: inherit;
+}
+
+.Menu {
+    background-color: black;
+    border-radius: inherit;
+    height: 33px;
+
+    p {
+        color: white;
+        margin-top: 4px;
+        margin-bottom: 0px;
+        font-size: 15px;
+        margin-left: 7px;
+    }
+}
+
+
+.profile-menu{
+    background-color: rgb(58, 136, 197);
+    border-radius: inherit;
+    height: 65px;
+
+    svg.svg-inline--fa.fa-circle-user {
+        color: white;
+        font-size: 41px;
+        margin-top: 10px;
+        align-self: flex-start;
+        margin-left: 4px;
+    }
+}
+
+.button-card{
+    background-color: rgb(58, 136, 197);
+    border-radius: inherit;
+    min-height: 447px;
+}
